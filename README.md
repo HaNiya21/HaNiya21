@@ -1,4 +1,4 @@
-##Hi, there 👋 I'm Hana Geremew!
+## Hi there 👋I'm Hana Geremew!
 
 Welcome to my GitHub profile! I'm an aspiring software developer with a passion for creating impactful applications and exploring new technologies. Currently, I’m focused on developing my skills in both front-end and back-end development, as well as diving into the world of machine learning and AI.
 
