@@ -5,9 +5,10 @@ Welcome to my GitHub profile! I'm an aspiring software developer with a passion 
 ## About Me
 
 - **🌍 Location:** Charlotte, NC
+- **🎓 Education:** Masters of CS with Information System and HCI from the University of North Carolina at Charlotte (Graduating December 2025)
 - **🎓 Education:** Bachelor of Science in Computer Science from the University of North Carolina at Charlotte (Graduating December 2024)
 - **💼 Current Role:** Undergraduate Teaching Assistant at UNCC and Data & Marketing Intern at Ripple Match
-- **🔧 Skills:** Java, Python, HTML, CSS, JavaScript, SQL, Flask, Node.js, Svelte
+- **🔧 Skills:** Java, Python, HTML, CSS, JavaScript, SQL, Flask, Node.js, React
 - **📜 Certifications:** Google UX Design Professional Certificate
 
 ## What I’m Working On
@@ -28,5 +29,6 @@ Welcome to my GitHub profile! I'm an aspiring software developer with a passion 
 - **📧 Email:** hanaberehanu@gmail.com
 - **🔗 LinkedIn:** [linkedin.com/in/hana-geremew-964b15116](https://linkedin.com/in/hana-geremew-964b15116)
 - **🐱 GitHub:** [github.com/HaNiya21](https://github.com/HaNiya21)
+- **👩‍💻 POrtifolio:** [https://haniya21.github.io/]
 
 Feel free to explore my repositories and projects. I’m always open to new opportunities and collaborations. Let’s connect and build something great together!
