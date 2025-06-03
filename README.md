@@ -13,8 +13,8 @@ Welcome to my GitHub! I’m a full-stack & AI-curious developer who loves turnin
 
 
 ##  🔧  Tech I use 
-- **TypeScript │ Node.js │ Python / FastAPI │ React │ GraphQL   
-- **PostgreSQL & MongoDB │ AWS & Docker │ Git / GitHub Actions
+- **TypeScript │ Node.js │ Python / FastAPI │ React │ GraphQL ** 
+- **PostgreSQL & MongoDB │ AWS & Docker │ Git / GitHub Actions **
 
 ## What I’m Working On
 
@@ -31,11 +31,11 @@ Welcome to my GitHub! I’m a full-stack & AI-curious developer who loves turnin
 - **Rewrite the Code (RTC) 2024:** Created a user-friendly interface using Figma and deployed it with Vercel.
 
 ### 🌱  Learning & Interests  
-- ** Generative AI • LLMOps • System design • Accessible UX
+- ** Generative AI • LLMOps • System design • Accessible UX **
 
 ### 👥  Community & Hackathons  
-- ** Chair @ **Charlotte Hack** • TA @ **Girls Who Code**  
-- ** Top finalist at **Pearl Hacks ’23** & **RTC Black Wing ’24**
+- Chair @ **Charlotte Hack** • TA @ **Girls Who Code**  
+- Top finalist at **Pearl Hacks ’23** & **RTC Black Wing ’24**
 
 
 ## How to Reach Me
