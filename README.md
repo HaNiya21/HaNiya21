@@ -43,6 +43,6 @@ Welcome to my GitHub! I’m a full-stack & AI-curious developer who loves turnin
 - **📧 Email:** hanaberehanu@gmail.com
 - **🔗 LinkedIn:** [linkedin.com/in/hana-geremew-964b15116](https://linkedin.com/in/hana-geremew-964b15116)
 - **🐱 GitHub:** [github.com/HaNiya21](https://github.com/HaNiya21)
-- **👩‍💻 POrtifolio:** [https://haniya21.github.io/]
+- **👩‍💻 Portifolio:** https://haniya21.github.io/
 
 Feel free to explore my repositories and projects. I’m always open to new opportunities and collaborations. Let’s connect and build something great together!
