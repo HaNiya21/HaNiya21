@@ -1,40 +1,74 @@
-## Hi there 👋I'm Hana Geremew!
+## Hi there 👋 I'm Hana Geremew!
 
-Welcome to my GitHub! I’m a Full-Stack Developer with experience building enterprise web apps and AI-powered solutions. I enjoy turning ideas into scalable, user-centered software, and I’m currently finishing my M.S. in Computer Science (HCI focus) at UNC Charlotte. My background includes full-stack internships, graduate teaching, and freelance development—where I’ve worked with Java Spring Boot, React, Node.js, Python, and SQL—alongside projects that integrate AI and cloud-native architectures.
+Welcome to my GitHub! I’m a **Full-Stack Software Engineer** with 3+ years of hands-on experience building scalable, production-ready web applications and APIs. I specialize in designing, developing, testing, and maintaining end-to-end systems using **Java, Spring Boot, React, Node.js, TypeScript, Python, and SQL**. I’m currently pursuing my **M.S. in Computer Science (HCI focus)** at UNC Charlotte and have a strong background in full-stack internships, backend optimization, cloud-native development, and technical mentoring.
+
+---
 
 ## About Me
 
-- **🌍 Location:** Washington, DC metro (open to East-Coast or remote teams
-- **🎓 Education:** Masters of CS with Information System and HCI from the University of North Carolina at Charlotte (Graduating December 2025)
-- **🎓 Education:** Bachelor of Science in Computer Science from the University of North Carolina at Charlotte (Graduating December 2024)
-- **💼 Experience:**
-          - Full Stack Java Developer – Manhattan Associates (2023–Present)
-          - Software Developer – Prime 3 Software (2022–2023)
-          - Graduate Instructional Assistant – UNC Charlotte
-- **🔧 Skills:** Java, Spring Boot, React, Angular, Hibernate, REST APIs, SQL, AWS, Docker, Kubernetes, Git, Python, HTML, CSS, JavaScript, SQL, Flask, Node.js
-- **📜 Certifications:** Google UX Design Professional Certificate
+- **🌍 Location:** Washington, DC Metro Area (open to East Coast or remote opportunities)
+- **🎓 Education:**  
+  - M.S. in Computer Science (HCI), University of North Carolina at Charlotte — *Expected 2026*  
+  - B.S. in Computer Science (HCI), University of North Carolina at Charlotte — *2024*  
+  - A.A.S. in Computer Science & Programming, Northern Virginia Community College — *2022*
+- **💼 Experience:**  
+  - Full Stack Developer Intern – EVA IT Consulting Services  
+  - Full Stack Developer Intern – Blen, Inc.  
+  - Graduate Instructional Assistant – UNC Charlotte  
+  - Tech Fellow – CodePath  
+  - Teaching Assistant – Girls Who Code
+- **🔧 Skills:** Java, Spring Boot, React, Node.js, TypeScript, Python, REST APIs, GraphQL, SQL, Docker, CI/CD, Agile/Scrum, API Security, UX/UI
+- **📜 Certifications:** Google UX Design Professional Certificate *(AWS certification in progress)*
 
+---
 
-##  🔧  Tech I use 
-- **Java │ Spring Boot │ Hibernate │ React │ Angular │ Node.js │ TypeScript │ Python │ Flask │ GraphQL** 
-- **MySQL │ PostgreSQL │ MongoDB │ AWS (S3, EC2, Lambda, DynamoDB) │ Docker │ Kubernetes │ Jenkins │ Git**
+## 🔧 Tech I Use
+
+- **Languages & Frameworks:**  
+  Java │ Spring Boot │ React │ Node.js │ TypeScript │ JavaScript │ Python │ Flask │ FastAPI │ GraphQL  
+- **Databases:**  
+  PostgreSQL │ MySQL │ MongoDB │ Supabase  
+- **Cloud & DevOps:**  
+  Docker │ GitHub Actions (CI/CD) │ Azure │ Google Cloud │ Linux  
+- **Testing & Tooling:**  
+  JUnit │ Postman │ Git/GitHub │ IntelliJ │ VS Code │ Figma │ Adobe XD  
+- **Architecture & Concepts:**  
+  Microservices │ MVC │ RESTful APIs │ Authentication & Authorization │ Data Modeling │ Agile/Scrum
+
+---
 
 ## What I’m Working On
 
+- Building and refining **full-stack applications** using React, Spring Boot, and SQL  
+- Exploring **cloud-native architectures**, Dockerized deployments, and CI/CD pipelines  
+- Developing **AI-integrated systems** using APIs and secure middleware  
+- Strengthening backend performance, testing strategies, and system design skills  
+
+---
+
 ## Notable Contributions
 
-- **Pearl Hacks 2023:** Developed a web application using Flask and Figma.
-- **Rewrite the Code (RTC) 2024:** Created a user-friendly interface using Figma and deployed it with Vercel.
-- **Charlotte Hack Chair** – Organized hackathons with 200+ participants, sponsored by Google & Microsoft
+- **ShopHub (Full-Stack E-Commerce Platform):** Built RESTful APIs, database schemas, and Dockerized services using Java and Spring Boot  
+- **Azure AI Text-to-Speech API:** Developed a secure middleware API with CI/CD and authentication  
+- **Charlotte Hack (Board Member):** Planned and executed hackathons with 200+ participants, securing sponsorships from Google and Microsoft  
+- **CodePath Tech Fellow:** Mentored students in data structures, algorithms, and frontend development  
+- **Girls Who Code TA:** Supported 100+ students through hands-on CS instruction and project-based learning  
 
-### 🌱  Learning & Interests  
-- **Microservices • Event-Driven Architecture (Kafka) • Generative AI • Cloud-Native Systems • Accessible UX Generative AI • LLMOps • System design • Accessible UX**
+---
 
+### 🌱 Learning & Interests
+
+- **Microservices & Distributed Systems**  
+- **Event-Driven Architecture (Kafka)**  
+- **Cloud-Native Systems & DevOps**  
+- **Generative AI & API Integrations**  
+- **System Design & Backend Optimization**  
+- **Accessible, User-Centered UX**
 
 ## How to Reach Me
 
-- **📧 Email:** Hanagrmw@gmail.com
-- **🔗 LinkedIn:** [linkedin.com/in/hana-geremew-964b15116](https://linkedin.com/in/hana-geremew-964b15116)
+- **📧 Email:** hanaberehanu@icloud.com
+- **🔗 LinkedIn:** [linkedin.com/in/hana-berhanu-geremew-8628473a2]
 - **🐱 GitHub:** [github.com/HaNiya21](https://github.com/HaNiya21)
 
 Feel free to explore my repositories and projects. I’m always open to new opportunities and collaborations. Let’s connect and build something great together!
