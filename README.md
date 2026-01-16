@@ -68,7 +68,7 @@ Welcome to my GitHub! I’m a **Full-Stack Software Engineer** with 3+ years of 
 ## How to Reach Me
 
 - **📧 Email:** hanaberehanu@icloud.com
-- **🔗 LinkedIn:** [linkedin.com/in/hana-berhanu-geremew-8628473a2]
+- **🔗 LinkedIn:** [linkedin.com/in/hana-berhanu-geremew-8628473a2)
 - **🐱 GitHub:** [github.com/HaNiya21](https://github.com/HaNiya21)
 
 Feel free to explore my repositories and projects. I’m always open to new opportunities and collaborations. Let’s connect and build something great together!
